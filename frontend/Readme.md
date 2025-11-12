@@ -60,6 +60,7 @@ export default {
 - [TypeScript 공식문서](https://www.typescriptlang.org/)
 - [Tailwind CSS 공식문서](https://tailwindcss.com/)
 
+---
 
 🧠 요약
 
