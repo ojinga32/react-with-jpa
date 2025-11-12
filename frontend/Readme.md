@@ -14,6 +14,8 @@
 
 ## ⚙️ Tailwind CSS 설정 (Configuration)
 
+```
+
 `tailwind.config.cjs` 또는 `tailwind.config.js` 파일에 아래 내용을 추가합니다 👇
 
 ```js
