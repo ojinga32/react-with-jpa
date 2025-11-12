@@ -53,15 +53,13 @@ export default {
 
 📦 Rollup 기반 빌드 → 최적화된 프로덕션 번들 제공
 
-📚 참고 문서 (Documentation)
+## 📚 참고 문서 (Documentation)
 
-Vite 공식문서
+- [Vite 공식문서](https://vitejs.dev/)
+- [React 공식문서](https://react.dev/)
+- [TypeScript 공식문서](https://www.typescriptlang.org/)
+- [Tailwind CSS 공식문서](https://tailwindcss.com/)
 
-React 공식문서
-
-TypeScript 공식문서
-
-Tailwind CSS 공식문서
 
 🧠 요약
 
