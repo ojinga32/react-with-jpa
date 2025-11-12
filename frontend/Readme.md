@@ -28,3 +28,40 @@ export default {
   },
   plugins: [],
 }
+그 다음, src/index.css 파일을 열고 아래처럼 변경합니다 👇
+
+css
+코드 복사
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+💡 주요 특징 (Key Features)
+⚡ Vite → 즉각적인 HMR(Hot Module Replacement)
+
+🧱 React → 컴포넌트 기반 아키텍처
+
+🔒 TypeScript → 정적 타입 검사를 통한 안정성 향상
+
+🎨 Tailwind CSS → CSS 클래스만으로 빠르고 일관된 스타일링
+
+📦 Rollup 기반 빌드 → 최적화된 프로덕션 번들 제공
+
+📚 참고 문서 (Documentation)
+Vite 공식문서
+
+React 공식문서
+
+TypeScript 공식문서
+
+Tailwind CSS 공식문서
+
+🧠 요약
+Vite + React + TypeScript + Tailwind CSS 조합은
+빠른 개발 속도 ⚡, 강력한 타입 시스템 🔒,
+효율적인 컴포넌트 구조 🧱, 감각적인 디자인 🎨
+을 모두 만족시키는 최신 프론트엔드 개발 표준입니다.
+
+yaml
+코드 복사
+
+---
