@@ -1,3 +1,7 @@
+### backend readme는 추후에 추가할 예정
+### 추후에 frontend, backend readme를 분리할 예정
+
+
 # ⚡ Vite + React + TypeScript + Tailwind CSS
 
 ## 🧩 개요 (Overview)
