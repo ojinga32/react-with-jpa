@@ -18,8 +18,8 @@ function IndexPage() {
                 <div className=" text-xl m-1 p-2 w-20 font-extrabold text-center underline" onClick={handleClickAdd}>
                     ADD
                 </div>
-
             </div>
+            
             <div className="flex flex-wrap w-full">
                 <Outlet/>
             </div>
