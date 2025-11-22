@@ -34,7 +34,7 @@ function ReadComponent({tno} :  {tno:number}) {
                     onClick={() => moveToList()}>List</button>
 
                     <button type="button" className=" rounded p-4 m-2 text-xl w-32 text-white bg-red-500" 
-                    onClick={() => moveToModify(tno)}>Modify</button>
+                    onClick={() => moveToModify(tno)}>Modify.</button>
                 </div>
             </div>
         }
